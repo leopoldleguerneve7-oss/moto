@@ -1,11 +1,6 @@
 
 #include "Moteur.h"
 
-/**
- * @file Moteur.cpp
- * @brief Implémentation de la classe Moteur
- */
-
 Moteur::Moteur() : puissance(0) {
 }
 

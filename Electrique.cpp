@@ -1,10 +1,4 @@
-
 #include "Electrique.h"
-
-/**
- * @file Electrique.cpp
- * @brief Implémentation de la classe Electrique
- */
 
 Electrique::Electrique() : Moteur(), tensionMax(0.0f) {
 }
